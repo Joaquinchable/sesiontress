@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Container-Btn {
+	margin: 100px;
+}
+button {
+ 
+  background-color: aqua;
+  width: 50%;
+  height: 50px;
+  font-size: 9px;
+
+}
+
+/* .btn1{
+  background-color: aqua;
+  width: 50%;
+  height: 50px;
+  font-size: 9px;
+  margin-left: 140px;
+  margin: 30px;
+}
+
+input{
+  margin-left: 140px;
+  width: 50%;
+  height: 50px;
+  font-size: 30px;
+  
+}  */
